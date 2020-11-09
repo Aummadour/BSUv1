@@ -4,3 +4,4 @@
 .Ruserdata
 00_data/*
 Challenges/*
+git rm -r --cached /00_data
